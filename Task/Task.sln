@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "Task.csproj", "{1B113E5E-D836-4DAF-918D-596F84FD5F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tymakov_11-12", "..\Tymakov_11-12\Tymakov_11-12.csproj", "{FAFAC5FE-2506-4F03-AF59-C1DD9CB70FE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B113E5E-D836-4DAF-918D-596F84FD5F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B113E5E-D836-4DAF-918D-596F84FD5F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B113E5E-D836-4DAF-918D-596F84FD5F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B113E5E-D836-4DAF-918D-596F84FD5F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAFAC5FE-2506-4F03-AF59-C1DD9CB70FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAFAC5FE-2506-4F03-AF59-C1DD9CB70FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAFAC5FE-2506-4F03-AF59-C1DD9CB70FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAFAC5FE-2506-4F03-AF59-C1DD9CB70FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C623330-F023-4450-B4F0-B6E7DF41530D}
+	EndGlobalSection
+EndGlobal
